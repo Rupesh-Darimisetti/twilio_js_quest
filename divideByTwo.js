@@ -11,4 +11,4 @@ const result = numberValue / 2;
 
 // You need to finish the line of code below! How would you print out the
 // result to the terminal window without hard coding the number 42?
-console.log("The value after dividing the "+numberValue+" by two:"+result);
+console.log("The value after dividing the "+numberValue+" by two: "+result);
